@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5ea28d254c3cd0a5bc3243a4"},"name":"Clothing"}
+{"_id":{"$oid":"5ea28d554c3cd0a5bc3243b4"},"name":"Bags"}
+{"_id":{"$oid":"5ea28d764c3cd0a5bc3243c9"},"name":"Shoes"}
+{"_id":{"$oid":"5ea28db84c3cd0a5bc3243d4"},"name":"Jewelry"}
+{"_id":{"$oid":"5ea28edf4c3cd0a5bc324414"},"name":"Accessories"}
+{"_id":{"$oid":"5ea28edf4c3cd0a5bc324417"},"name":"Food/Drink Store"}
+{"_id":{"$oid":"5ea290444c3cd0a5bc32446d"},"name":"Gift Store"}
+{"_id":{"$oid":"5ea290444c3cd0a5bc324470"},"name":"Watch"}
+{"_id":{"$oid":"5ea290444c3cd0a5bc324473"},"name":"Other"}
+{"_id":{"$oid":"5ea29b564c3cd0a5bc32473f"},"name":"Accessories"}

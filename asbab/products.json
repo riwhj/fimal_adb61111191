@@ -1,0 +1,9 @@
+{"_id":{"$oid":"5ea2a5094c3cd0a5bc324a71"},"name":"Nike crop retro terry towelling crop sweatshirt in yellow","price":89,"categories":{"$oid":"5ea28d254c3cd0a5bc3243a4"}}
+{"_id":{"$oid":"5ea2a5b44c3cd0a5bc324ac1"},"name":"Nike terry towelling shorts in yellow","price":68,"categories":{"$oid":"5ea28d254c3cd0a5bc3243a4"}}
+{"_id":{"$oid":"5ea2a5ed4c3cd0a5bc324adc"},"name":"Warehouse disty floral print midi cami dress in black","price":70,"categories":{"$oid":"5ea28d554c3cd0a5bc3243b4"}}
+{"_id":{"$oid":"5ea2a6044c3cd0a5bc324af2"},"name":"Warehouse floral print cotton bardot mini dress in black","price":45,"categories":{"$oid":"5ea28db84c3cd0a5bc3243d4"}}
+{"_id":{"$oid":"5ea70f2efc4a000052004ca3"},"name":" rad gold","price":"200","categories":{"$oid":"5ea28db84c3cd0a5bc3243d4"}}
+{"_id":{"$oid":"5ec37b09ad613772e9b146fa"},"name":"ADJ019 Bags","price":"55","categories":{"$oid":"5ea28d554c3cd0a5bc3243b4"}}
+{"_id":{"$oid":"5ec37b09ad613772e9b146fb"},"name":"CAPE BAGs","price":"27","categories":{"$oid":"5ea28d554c3cd0a5bc3243b4"}}
+{"_id":{"$oid":"5ec37b09ad613772e9b146fc"},"name":"Zipper With Front Pockets","price":"39","categories":{"$oid":"5ea28d554c3cd0a5bc3243b4"}}
+{"_id":{"$oid":"5ec37b09ad613772e9b146fd"},"name":"Chain Pleated Spaghetti Bag","price":"29","categories":{"$oid":"5ea28d554c3cd0a5bc3243b4"}}
